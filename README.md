@@ -1,2 +1,2 @@
-# JS_learning
+# JavaScript
 this is my start in javascript
