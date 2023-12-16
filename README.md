@@ -1,2 +1,2 @@
 # JavaScript
-this is my start in javascript
+my start in javascript
